@@ -13,6 +13,7 @@ Upon subscribing one can select what type of items one wants sent from the items
 
 I also wanna provide you with an advertisment promo text for this great option.
 
+Also, when you got a sec, please check out: [stop-f-king-with-your-workers](https://github.com/hey-amazon/stop-f-king-with-your-workers)
 
 ## Advertisement for #NoAmazonWaste
 ```Amazon likes to waste goods originally meant for consumers like you:
